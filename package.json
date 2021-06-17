@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Roman-Trukhtanov/nodejs_console_utils.git"
   },
-  "author": "roman_trukhtanov",
+  "author": "roman_trukhtanov <roman_trukhtanov@gmail.com>",
   "license": "ISC",
+  "bin": {
+    "guess-number": "index.js"
+  },
   "bugs": {
     "url": "https://github.com/Roman-Trukhtanov/nodejs_console_utils/issues"
   },
